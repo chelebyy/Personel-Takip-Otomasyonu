@@ -1,0 +1,24 @@
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\Personel Takip Otomasyonu.exe.config
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\Personel Takip Otomasyonu.exe
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\Personel Takip Otomasyonu.pdb
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmDepartmanlar.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.exe
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.pdb
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmPersonelEkle.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmAnasayfa.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmPersonelListele.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmKullanici.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmSifremiUnuttum.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmYeniKullanici.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmMesaiEkle.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmMesailer.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel_Takip_Otomasyonu.frmPersonelMesaileri.resources
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\AdvancedDataGridView.xml
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\ab231585\Desktop\Personel Takip Otomasyonu\Personel Takip Otomasyonu\Personel Takip Otomasyonu\obj\Debug\Personel Takip Otomasyonu.csproj.CopyComplete
